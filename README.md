@@ -5,8 +5,8 @@ A simple to-do web application, containerised with Docker and orchestrated with 
 ## Team
 
 - Sophia Foit
-- _Name 2_
-- _Name 3_
+- Kevin Sprenger
+- Daniela Haid
 
 ## Architecture
 
